@@ -197,9 +197,9 @@
 <body>
 
   <header>
-    <div class="subtext">• Hello. I am a modeler/builder 🧱🔨 •</div>
+    <div class="subtext">• Hello! I am a modeler/builder 🧱🔨 •</div>
     <img src="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1753164241/jlquc0grsjhp3wd0t3jj.jpg" alt="Logo" />
-    <h1>Welcome.</h1>
+    <h1>Welcome!</h1>
     <div class="subtext">• Explore my 3D creations made in Blender •</div>
   </header>
 
